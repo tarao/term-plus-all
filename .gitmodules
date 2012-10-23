@@ -1,0 +1,36 @@
+[submodule "main/term-plus-el"]
+	path = main/term-plus-el
+	url = git://github.com/tarao/term-plus-el.git
+[submodule "main/term-plus-mux-el"]
+	path = main/term-plus-mux-el
+	url = git://github.com/tarao/term-plus-mux-el.git
+[submodule "main/term-plus-ki-el"]
+	path = main/term-plus-ki-el
+	url = git://github.com/tarao/term-plus-ki-el.git
+[submodule "main/term-plus-mode-el"]
+	path = main/term-plus-mode-el
+	url = git://github.com/tarao/term-plus-mode-el.git
+[submodule "main/term-plus-evil-el"]
+	path = main/term-plus-evil-el
+	url = git://github.com/tarao/term-plus-evil-el.git
+[submodule "main/term-plus-ash-el"]
+	path = main/term-plus-ash-el
+	url = git://github.com/tarao/term-plus-ash-el.git
+[submodule "lib/tab-group-el"]
+	path = lib/tab-group-el
+	url = git://github.com/tarao/tab-group-el.git
+[submodule "lib/key-intercept-el"]
+	path = lib/key-intercept-el
+	url = git://github.com/tarao/key-intercept-el.git
+[submodule "lib/multi-mode-util"]
+	path = lib/multi-mode-util
+	url = git://github.com/tarao/multi-mode-util.git
+[submodule "lib/multi-mode"]
+	path = lib/multi-mode
+	url = git://github.com/emacsmirror/multi-mode.git
+[submodule "lib/evil"]
+	path = lib/evil
+	url = git://gitorious.org/evil/evil.git
+[submodule "lib/anything-config"]
+	path = lib/anything-config
+	url = git://repo.or.cz/anything-config.git
